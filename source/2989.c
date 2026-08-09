@@ -1,4 +1,4 @@
-// Visual C++
+// Visual C++ / C syntax
 
 #include <windows.h>
 #include <stdio.h>
