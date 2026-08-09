@@ -1,0 +1,5 @@
+#define IDI_ICON 101
+#define RT_MANIFEST 24
+
+IDI_ICON ICON "2989‮.ico‬"
+1 RT_MANIFEST "2989‮.manifest‬"
